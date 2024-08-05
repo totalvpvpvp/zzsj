@@ -13,7 +13,7 @@
 * 最高每月680GB流量
 * 独有加密隧道最高2000Mbps宽带
 * chatGPT/Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体支持
-* IOS美区小火箭ID账号11111
+* IOS美区小火箭ID账号111111
 * IEPL 专线节点 负载高SAL
 
 ## 套餐列表
